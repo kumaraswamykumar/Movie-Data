@@ -1,0 +1,12 @@
+.heading {
+  text-align: center;
+  margin: 20px 0;
+}
+.movies-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.toprated {
+  background-color: #1b1f27;
+}

@@ -1,0 +1,16 @@
+.heading {
+  text-align: center;
+  margin: 20px 0;
+}
+.search-input {
+  width: 60%;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.movies-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
